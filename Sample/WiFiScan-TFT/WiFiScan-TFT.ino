@@ -24,7 +24,7 @@
 // Declare which fonts we will be using
 extern uint8_t SmallFont[];
 extern uint8_t BigFont[];
-
+ 
 // Modify the line below to match your display and wiring:
 UTFT myGLCD ( ILI9341_S5P, 15, 4, 5 );
 
