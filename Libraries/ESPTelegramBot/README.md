@@ -46,7 +46,7 @@ In this example we will make it turn on and off a LED by texting him a simple '*
 ## Examples
 
 
-- [FlashledBot.ino](https://telegram.me/FlashledBot) : Switch on and off the led of your ESP8266 Board.
+- [FlashledBot.ino](https://github.com/omseven/ESP8266/blob/master/Libraries/ESPTelegramBot/examples/FlashledBot/FlashledBot.ino) : Switch on and off the led of your ESP8266 Board.
 -  [@FlashledBot](https://telegram.me/FlashledBot_bot) : Telegram Sample Bot.
 
 
