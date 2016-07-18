@@ -1,3 +1,10 @@
+/*
+ Name:		ESPTBot.ino
+ Created:	7/18/2016 5:24:31 PM
+ Author:	Omid Golmakani
+ https://github.com/omseven/ESP8266/tree/master/Libraries
+*/
+
 #include <ESP8266WiFi.h>
 #include "ESPTelegramBot.h"
 
@@ -15,7 +22,6 @@ ESPTBot bot(BOTtoken, BOTname, BOTusername);
 int Bot_mtbs = 1000;                                             //mean time between scan messages
 long Bot_lasttime;                                               //last time messages' scan has been done
 bool Start = false;
-
 
 //function to Echo messages 
 void Bot_ExecMessages() {
@@ -73,3 +79,7 @@ void loop() {
 		Bot_ExecMessages();                    // reply to message with Echo
 		Bot_lasttime = millis();
 	}
+}
+
+
+
