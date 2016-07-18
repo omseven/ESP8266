@@ -30,7 +30,7 @@ For full details, see "[Bots: An introduction for developers](https://core.teleg
 
 Here are listed some examples to help you to build your own Bot:
 
-- [FlashledBot](https://github.com/Arduino/xxxx/Libraries/TelegramBot/master/examples/FlashledBot/FlashledBot.ino) : switch on and off the led of your Arduino using the Bot.
+- [FlashledBot]: switch on and off the led of your Arduino using the Bot.
 
 
 
