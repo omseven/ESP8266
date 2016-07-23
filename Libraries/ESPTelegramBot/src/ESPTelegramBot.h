@@ -8,7 +8,6 @@
 #ifndef _ESPTelegramBot_h
 #define _ESPTelegramBot_h
 
-#include "arduino.h"
 #include "ESP8266WiFi.h"
 #include "WiFiClientSecure.h"
 
