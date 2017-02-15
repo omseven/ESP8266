@@ -49,4 +49,7 @@ In this example we will make it turn on and off a LED by texting him a simple '*
 - [FlashledBot.ino](https://github.com/omseven/ESP8266/blob/master/Libraries/ESPTelegramBot/examples/FlashledBot/FlashledBot.ino) : Switch on and off the led of your ESP8266 Board.
 -  [@FlashledBot](https://telegram.me/FlashledBot_bot) : Telegram Sample Bot.
 
+## License
+
+You may copy, distribute and modify the software provided that modifications are described and licensed for free under [LGPL-3](http://www.gnu.org/licenses/lgpl-3.0.html). Derivatives works (including modifications or anything statically linked to the library) can only be redistributed under [LGPL-3](http://www.gnu.org/licenses/lgpl-3.0.html), but applications that use the library don't have to be.
 
